@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #3dc8ff;
+}
+back-btn {
+    background-color: #00c3ff;
+    color: white;
+    border: 1px solid #000000;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    
+}
