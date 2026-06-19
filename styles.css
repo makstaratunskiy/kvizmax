@@ -2,7 +2,7 @@
 
 body {
     display: flex;
-    justify-content: center;
+    justify-content: center; 
     background-color: #3dc8ff;
     font-family: "Playwrite GB S Guides", cursive;
     margin: 0;
