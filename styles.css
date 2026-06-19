@@ -2,22 +2,20 @@
 
 body {
     display: flex;
-    justify-content: center; 
+    justify-content: center;
     background-color: #3dc8ff;
     font-family: "Playwrite GB S Guides", cursive;
     margin: 0;
     padding: 20px;
     color: white;
 }
-back-btn {
-    background-color: #00c3ff;
-    color: white;
-    border: 1px solid #000000;
+#back-btn {
     padding: 10px 20px;
-    text-decoration: none;
-    display: inline-block;
-    margin: 10px;
+    border-radius: 5px;
+    background: linear-gradient(to bottom, lightblue, #1c9c97);
     cursor: pointer;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
     
 }
 main{
